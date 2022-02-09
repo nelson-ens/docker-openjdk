@@ -1,0 +1,4 @@
+aem-base:
+  dockerfile: Dockerfile
+  build: .
+  container_name: "aem-base"
